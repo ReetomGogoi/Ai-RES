@@ -285,3 +285,4 @@ else:
 # Footer
 st.markdown('---')
 st.caption('AI Crop Analyser — starter app. Developed by Archit + ChatGPT (assistant).')
+Ai-RES/AI_Crop_Analyser_Streamlit_App.py
